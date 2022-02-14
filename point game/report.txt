@@ -1,0 +1,53 @@
+Container 'C:\Users\Anders\Desktop\Seconds To Enter\Coding parts\point game\Character000.vc'
+-------------------------------------------------------------------------------
+tmp/graphics/derp civant_png.webp
+tmp/graphics/derp civant.3_png.webp
+tmp/graphics/derp civant.2_png.webp
+tmp/graphics/SceneFromScratch/Graphics/Icons/Text Box_png.webp
+--------------------------------------------------------------------------------
+Container 'C:\Users\Anders\Desktop\Seconds To Enter\Coding parts\point game\Character001.vc'
+-------------------------------------------------------------------------------
+tmp/graphics/SceneFromScratch/Graphics/Character/Derpcant_png.webp
+--------------------------------------------------------------------------------
+Container 'C:\Users\Anders\Desktop\Seconds To Enter\Coding parts\point game\Scene000.vs'
+-------------------------------------------------------------------------------
+tmp/graphics/SceneFromScratch/Graphics/BackgroundImages/derp background 1.1_png.webp
+graphics/SceneFromScratch/Graphics/music/Three in the Morning (RJ's I Can Barely Sleep In This Casino Remix).ogg
+tmp/graphics/SceneFromScratch/Graphics/solid items/speakers_png.webp
+tmp/graphics/SceneFromScratch/Graphics/solid items/pod_png.webp
+--------------------------------------------------------------------------------
+Container 'C:\Users\Anders\Desktop\Seconds To Enter\Coding parts\point game\Scene001.vs'
+-------------------------------------------------------------------------------
+tmp/graphics/SceneFromScratch/Graphics/BackgroundImages/room 2.1_png.webp
+tmp/graphics/SceneFromScratch/Graphics/solid items/room 2_png.webp
+--------------------------------------------------------------------------------
+Container 'C:\Users\Anders\Desktop\Seconds To Enter\Coding parts\point game\Interfaces.vi'
+-------------------------------------------------------------------------------
+tmp/graphics/SceneFromScratch/Graphics/Icons/FILO system_png.webp
+--------------------------------------------------------------------------------
+Container 'C:\Users\Anders\Desktop\Seconds To Enter\Coding parts\point game\test build.vis'
+-------------------------------------------------------------------------------
+graphics/SceneFromScratch/Graphics/font/carima.ttf
+graphics/SceneFromScratch/Graphics/font/09809_COURIER.ttf
+tmp/graphics/cur_walk_active_png.webp
+tmp/graphics/cur_walk_png.webp
+tmp/graphics/cur_look_active_png.webp
+tmp/graphics/cur_arrow_png.webp
+game.veb
+--------------------------------------------------------------------------------
+
+Containers:
+
+
+Character000.vc 0 Civant
+
+Character001.vc 1 Lacant
+
+Interfaces.vi 0 
+
+Scene000.vs 0 room 1
+
+Scene001.vs 1 room 2
+
+test build.vis 0 
+
